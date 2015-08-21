@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = FTFaceWindowOpacity;
+	cell = PSLinkCell;
+	detail = FTFaceWindowOpacityListController;
+	icon = FTFaceWindowOpacity.png;
+	isController = 1;
+	label = FTFaceWindowOpacity;
+    };
+}
