@@ -3,7 +3,7 @@ ARCHS = arm64 armv7
 include theos/makefiles/common.mk
 
 BUNDLE_NAME = FTFaceWindowOpacity
-FTFaceWindowOpacity_FILES = FTFaceWindowOpacity.mm BetterPSSliderTableCell.mm
+FTFaceWindowOpacity_FILES = FTFaceWindowOpacity.mm
 FTFaceWindowOpacity_INSTALL_PATH = /Library/PreferenceBundles
 FTFaceWindowOpacity_FRAMEWORKS = UIKit
 FTFaceWindowOpacity_PRIVATE_FRAMEWORKS = Preferences

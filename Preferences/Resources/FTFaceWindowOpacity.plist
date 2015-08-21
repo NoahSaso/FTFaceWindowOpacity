@@ -35,8 +35,6 @@
 		<dict>
 			<key>cell</key>
 			<string>PSSliderCell</string>
-			<key>cellClass</key>
-			<string>BetterPSSliderTableCell</string>
 			<key>defaults</key>
 			<string>com.sassoty.ftfacewindowopacity</string>
 			<key>PostNotification</key>
